@@ -1,0 +1,4 @@
+ML running notes
+---------------------------------
+--> Linear regression
+y = b0 + b1x1
